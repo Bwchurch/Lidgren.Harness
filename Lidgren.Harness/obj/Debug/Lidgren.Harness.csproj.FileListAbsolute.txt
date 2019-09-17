@@ -1,0 +1,12 @@
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\bin\Debug\Lidgren.Harness.exe.config
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\bin\Debug\Lidgren.Harness.exe
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\bin\Debug\Lidgren.Harness.pdb
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\bin\Debug\Lidgren.Network.dll
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\bin\Debug\Lidgren.Network.pdb
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\obj\Debug\Lidgren.Harness.csprojAssemblyReference.cache
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\obj\Debug\Lidgren.Harness.csproj.CoreCompileInputs.cache
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\obj\Debug\Lidgren.Harness.csproj.CopyComplete
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\obj\Debug\Lidgren.Harness.exe
+C:\Users\Brand\source\repos\Lidgren.Harness\Lidgren.Harness\obj\Debug\Lidgren.Harness.pdb
